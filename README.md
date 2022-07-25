@@ -1,3 +1,5 @@
+## Name of the candidate: Nahidur Rahman
+
 # Cogent Labs - Thumbnail Generator API
 
 Thumbnail-generator is a JSON-based REST API service which resizes images into 100x100px thumbnails.
